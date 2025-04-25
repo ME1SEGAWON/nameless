@@ -1,0 +1,39 @@
+{
+    "name": "hannesvdvreken/guzzle-profiler",
+    "description": "A Guzzle middleware that profiles requests made by the client.",
+    "authors": [
+        {
+            "name": "Hannes Van De Vreken",
+            "email": "vandevreken.hannes@gmail.com"
+        }
+    ],
+    "keywords": ["log", "guzzle", "http", "middleware", "profiling", "profiler", "timeline", "debug"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2",
+        "guzzlehttp/guzzle": "^6.0|^7.0"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.2.20",
+        "phpunit/phpunit": "^8.2.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "GuzzleHttp\\Profiling\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GuzzleHttp\\Profiling\\Unit\\": "tests/unit/"
+        }
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/hannesvdvreken"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    }
+}

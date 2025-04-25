@@ -1,0 +1,20 @@
+{
+    "discord_integration/discord": "Discord",
+    "discord_integration/discord_bot_must_be_setup": "Não é possível ativar a integração do Discord até que você configure o bot. Para informações, por favor {{linkStart}}clique aqui{{linkEnd}}.",
+    "discord_integration/discord_bot_setup": "Configuração do bot",
+    "discord_integration/discord_guild_id": "ID do Servidor do Discord",
+    "discord_integration/discord_id_confirm": "Por favor, execute o comando \"/verify {{token}}\" no Discord para terminar de vincular sua conta Discord.",
+    "discord_integration/discord_id_help": "Para obter informações sobre onde encontrar as IDs do Discord, por favor, leia {{linkStart}}isso.{{linkEnd}}",
+    "discord_integration/discord_id_length": "Certifique-se de que seu ID do Discord tenha 18 caracteres.",
+    "discord_integration/discord_id_numeric": "Certifique-se de que o seu ID Discord seja numérico (apenas números).",
+    "discord_integration/discord_integration_not_setup": "A integração do Discord não está configurada.",
+    "discord_integration/discord_invite_info": "Para convidar o bot Nameless Link para seu servidor Discord, clique {{inviteLinkStart}}aqui{{inviteLinkEnd}}. Então, envie uma mensagem privada para o bot com o comando <code>/apiurl</code> para vincular o bot ao seu site. Alternativamente, você pode {{selfHostLinkStart}}hospedar o bot você mesmo{{selfHostLinkEnd}}.",
+    "discord_integration/discord_role_id": "ID do Cargo do Discord",
+    "discord_integration/discord_role_id_length": "O ID do cargo do Discord deve ter 18 dígitos.",
+    "discord_integration/discord_role_id_numeric": "O ID do cargo do Discord deve ser numérico.",
+    "discord_integration/discord_settings_updated": "Configurações do Discord atualizadas com sucesso.",
+    "discord_integration/discord_usernames_updated": "Nomes de usuários do Discord atualizados com sucesso.",
+    "discord_integration/discord_widget_disabled": "O widget está desativado para o servidor Discord especificado. Por favor, vá para a guia \"Widget\" em suas configurações do servidor Discord, e certifique-se de que o widget Discord esteja habilitado e que a identificação esteja correta.",
+    "discord_integration/discord_widget_theme": "Tema do Widget do Discord",
+    "discord_integration/enable_discord_integration": "Ativar integração com o Discord?"
+}

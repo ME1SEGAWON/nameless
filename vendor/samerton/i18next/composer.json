@@ -1,0 +1,33 @@
+{
+    "name": "samerton/i18next",
+    "description": "PHP class for basic i18next functionality ",
+    "version": "1.0.1",
+    "keywords": [
+        "i18next",
+        "i18n"
+    ],
+    "homepage": "https://github.com/samerton/i18next-php",
+    "license": "Beerware",
+    "authors": [
+        {
+            "name": "Mika Simanainen",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=7.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "samerton\\i18next\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "samerton\\i18next\\Test\\": "tests"
+        }
+    }
+}

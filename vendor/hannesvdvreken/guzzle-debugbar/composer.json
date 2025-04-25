@@ -1,0 +1,52 @@
+{
+    "name": "hannesvdvreken/guzzle-debugbar",
+    "description": "A Guzzle middleware that logs requests to debugbar's timeline",
+    "keywords": [
+        "Debugbar", "http", "log", "Guzzle", "middleware", "profiling", "profiler", "PHP"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hannes Van De Vreken",
+            "email": "vandevreken.hannes@gmail.com"
+        },
+        {
+            "name": "Barry vd. Heuvel",
+            "email": "barryvdh@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "hannesvdvreken/guzzle-profiler": "^2",
+        "maximebf/debugbar": "^1"
+    },
+    "require-dev": {
+        "illuminate/support": ">=6",
+        "phpunit/phpunit": "^8.2.3",
+        "friendsofphp/php-cs-fixer": "^2.2.20"
+    },
+    "autoload": {
+        "psr-4": {
+            "GuzzleHttp\\Profiling\\Debugbar\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "GuzzleHttp\\Profiling\\Debugbar\\Unit\\": "tests/unit/"
+        }
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/hannesvdvreken"
+        },
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/barryvdh"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    }
+}

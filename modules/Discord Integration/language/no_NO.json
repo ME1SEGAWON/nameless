@@ -1,0 +1,17 @@
+{
+    "discord_integration/discord": "Discord",
+    "discord_integration/discord_bot_must_be_setup": "Kan ikke aktivere Discord-integrering før du har satt opp boten. For informasjon, vennligst {{linkStart}}klikk her{{linkEnd}}.",
+    "discord_integration/discord_bot_setup": "Bot-oppsett",
+    "discord_integration/discord_guild_id": "Discord Server-ID",
+    "discord_integration/discord_id_help": "For mer informasjon om hvordan man finner Discord-bruker-ID, vennligst les {{linkStart}}denne artikkelen.{{linkEnd}}",
+    "discord_integration/discord_id_length": "Pass på at Discord-ID-en inneholder 18 tegn.",
+    "discord_integration/discord_id_numeric": "Pass på at Discord-ID-en er numerisk (kun tall).",
+    "discord_integration/discord_integration_not_setup": "Discord-integrering er ikke satt opp",
+    "discord_integration/discord_role_id": "Discord rolle-ID",
+    "discord_integration/discord_role_id_length": "Discord rolle-ID må inneholde 18 tegn.",
+    "discord_integration/discord_role_id_numeric": "Discord rolle-ID må være numerisk",
+    "discord_integration/discord_settings_updated": "Discord-innstillinger har blitt oppdatert",
+    "discord_integration/discord_usernames_updated": "Discord-brukernavn har blitt oppdatert",
+    "discord_integration/discord_widget_theme": "Discord Widget-Tema",
+    "discord_integration/enable_discord_integration": "Aktiver Discord-integrering?"
+}

@@ -1,0 +1,19 @@
+{
+    "discord_integration/discord": "Discord",
+    "discord_integration/discord_bot_must_be_setup": "No se puede habilitar la integración de Discord hasta que no se haya configurado el bot. Para obtener información, por favor {{linkStart}}haga clic aquí{{linkEnd}}.",
+    "discord_integration/discord_bot_setup": "Configuración del bot",
+    "discord_integration/discord_guild_id": "ID del Servidor de Discord",
+    "discord_integration/discord_id_confirm": "Por favor, ejecuta el comando \"/verify {{token}}\" en Discord para terminar de vincular tu cuenta de Discord.",
+    "discord_integration/discord_id_help": "Para obtener información sobre dónde encontrar ID\\ de Discord, por favor lea {{linkStart}}>esto.{{linkEnd}}",
+    "discord_integration/discord_id_length": "Asegúrate de que tu ID de Discord tenga 18 caracteres.",
+    "discord_integration/discord_id_numeric": "Asegúrese de que su ID de Discord sea numérica (No debe contener letras).",
+    "discord_integration/discord_integration_not_setup": "La integración de Discord no está configurada",
+    "discord_integration/discord_invite_info": "Para invitar al bot Nameless Link a tu servidor Discord, haz clic en {{inviteLinkStart}}aquí{{inviteLinkEnd}}. A continuación, ejecuta el comando <code>/apiurl</code> para enlazar el bot con tu sitio web. También puedes {{selfHostLinkStart}}alojar el bot tú mismo{{selfHostLinkEnd}}.",
+    "discord_integration/discord_role_id": "ID de rol de discord",
+    "discord_integration/discord_role_id_length": "La ID del rol de discordia debe tener 18 dígitos.",
+    "discord_integration/discord_role_id_numeric": "El ID de rol de Discord debe ser numérico.",
+    "discord_integration/discord_settings_updated": "La configuración de discord se ha actualizado con éxito",
+    "discord_integration/discord_usernames_updated": "Los nombres de usuario de discord se han actualizado con éxito",
+    "discord_integration/discord_widget_theme": "Tema del Widget de Discord",
+    "discord_integration/enable_discord_integration": "¿Habilitar la integración de Discord?"
+}
